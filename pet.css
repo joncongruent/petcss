@@ -1,0 +1,15 @@
+.list-animal-info-block
+{
+font-family: poppins,sanserif;
+font-size: 1.3em;
+padding-bottom: .8em;
+}
+
+.list-animal-name a
+{
+color: #FF893C;
+}
+.list-animal-photo-block
+{
+text-align: center;
+}
